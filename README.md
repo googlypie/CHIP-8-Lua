@@ -10,4 +10,5 @@ After this, put your .ch8 file in the same folder as the .lua file.<br>
 Run the "run.bat" file.<br>
 <br>
 Change cycles_per_step in config.txt to change CPU speed.<br>
-Change shift_mode in config.txt aswell.
+Change shift_mode in config.txt if needed. The two options are "original" and "modern".<br>
+"debug" and "debug_c" in config.txt activate debug in love2d and debug in console.
