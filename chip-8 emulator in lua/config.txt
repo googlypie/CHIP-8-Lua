@@ -1,6 +1,0 @@
---one step is ~0.016 seconds or ~16.666 milliseconds
---one step is one love2d frame (60 fps)
---cycles per step default is 5 for 500 hz
-
-shift_mode = modern
-cycles_per_step = 1000
