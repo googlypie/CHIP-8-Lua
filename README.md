@@ -8,3 +8,6 @@ Execute this command: "scoop install love"<br>
 If this fails, try running "scoop bucket add extras", then try the previous command again.<br>
 After this, put your .ch8 file in the same folder as the .lua file.<br>
 Run the "run.bat" file.<br>
+<br>
+Change cycles_per_step in config.txt to change CPU speed.
+Change shift_mode in config.txt aswell.
